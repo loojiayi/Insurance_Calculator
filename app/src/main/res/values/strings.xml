@@ -5,7 +5,7 @@
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="smoker">Smoker?</string>
-    <string name="premium">Insurance Premium</string>
+    <string name="premium">Insurance Premium : </string>
     <string name="calculate">Calculate</string>
     <string name="reset">Reset</string>
     <string-array name="age_group">
